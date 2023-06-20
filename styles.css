@@ -1,6 +1,11 @@
 body {
+  display: block;
   text-align: center;
-  background-color: #283149;
+  background-color: black;
+  background-image: url(images/download.jpeg);
+  background-size: 120rem;
+  background-repeat: no-repeat;
+  align-items: center;
 }
 
 h1 {
@@ -34,11 +39,12 @@ footer {
 }
 
 .j {
-  background-image: url(images/crash.png);
+  background-image: url(images/kick.png);
 }
 
 .k {
-  background-image: url(images/kick.png);
+  
+  background-image: url(images/crash.png);
 }
 
 .l {
